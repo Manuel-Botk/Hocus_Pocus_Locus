@@ -1,0 +1,30 @@
+{
+  "categories": [
+    { "id": "promos", "name": "Promos"},
+    { "id": "cervezas", "name": "Cervezas frías"},
+    { "id": "licores", "name": "Licores"},
+    { "id": "sin-alcohol", "name": "Sin alcohol"},
+    { "id": "picar", "name": "Pa' picar"},
+    { "id": "otros", "name": "Otros productos"}
+  ],
+  "products": [
+    { "id": 1, "name": "Cerveza lager lata 330ml", "category": "cervezas", "price": 3200, "size": "1 und · 330ml", "image": "/products/1.jpg", "promo": false },
+    { "id": 2, "name": "Six pack cerveza lager", "category": "cervezas", "price": 17900, "size": "6 und · 330ml", "image": "/products/2.jpg", "promo": true },
+    { "id": 3, "name": "Cerveza rubia botella 330ml", "category": "cervezas", "price": 3600, "size": "1 und · 330ml", "image": "/products/3.jpg", "promo": false },
+    { "id": 4, "name": "Cerveza premium botella 355ml", "category": "cervezas", "price": 5900, "size": "1 und · 355ml", "image": "/products/4.jpg", "promo": false },
+    { "id": 5, "name": "Canasta retornable x30", "category": "cervezas", "price": 79900, "size": "30 und · 330ml", "image": "/products/5.jpg", "promo": true },
+    { "id": 6, "name": "Aguardiente sin azúcar", "category": "licores", "price": 53200, "size": "1 und · 750ml", "image": "/products/6.jpg", "promo": false },
+    { "id": 7, "name": "Ron añejo 8 años", "category": "licores", "price": 89900, "size": "1 und · 750ml", "image": "/products/7.jpg", "promo": true },
+    { "id": 8, "name": "Whisky 12 años", "category": "licores", "price": 139900, "size": "1 und · 700ml", "image": "/products/8.jpg", "promo": false },
+    { "id": 9, "name": "Vino tinto reserva", "category": "licores", "price": 42900, "size": "1 und · 750ml", "image": "/products/9.jpg", "promo": false },
+    { "id": 10, "name": "Gaseosa cola 1.5L", "category": "sin-alcohol", "price": 6500, "size": "1 und · 1.5L", "image": "/products/10.jpg", "promo": false },
+    { "id": 11, "name": "Agua con gas 600ml", "category": "sin-alcohol", "price": 3100, "size": "1 und · 600ml", "image": "/products/11.jpg", "promo": false },
+    { "id": 12, "name": "Cerveza sin alcohol 330ml", "category": "sin-alcohol", "price": 4200, "size": "1 und · 330ml", "image": "/products/12.jpg", "promo": true },
+    { "id": 13, "name": "Papas fritas familiares", "category": "picar", "price": 7800, "size": "1 und · 230g", "image": "/products/13.jpg", "promo": false },
+    { "id": 14, "name": "Mix de maníes", "category": "picar", "price": 5200, "size": "1 und · 150g", "image": "/products/14.jpg", "promo": false },
+    { "id": 15, "name": "Chicharrón pellet", "category": "picar", "price": 4500, "size": "1 und · 90g", "image": "/products/15.jpg", "promo": true },
+    { "id": 16, "name": "Bolsa de hielo 2 kg", "category": "otros", "price": 6300, "size": "1 und · 2000g", "image": "/products/16.jpg", "promo": false },
+    { "id": 17, "name": "Carbón para asado", "category": "otros", "price": 9800, "size": "1 und · 3kg", "image": "/products/17.jpg", "promo": false },
+    { "id": 18, "name": "Vasos desechables x25", "category": "otros", "price": 4900, "size": "25 und", "image": "/products/18.jpg", "promo": false }
+  ]
+}
