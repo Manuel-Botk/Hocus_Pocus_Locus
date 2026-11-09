@@ -1,4 +1,5 @@
 import { X, MapPin, ShoppingCart, Minus, Plus, ArrowRight, Star } from 'lucide-react'
+import { ProductImage } from './CatalogIcons'
 import { formatCOP } from '../api/catalogApi'
 import { cartTotal, earnedPoints } from '../api/ordersApi'
 
