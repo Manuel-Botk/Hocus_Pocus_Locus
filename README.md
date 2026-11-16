@@ -6,7 +6,9 @@ Tienda web de domicilios para la fiesta: licores, cervezas, snacks y artículos 
 
 ## Demo
 
-🔗 [https://tu-proyecto.vercel.app](https://hocus-pocus-locus-lyqa.vercel.app/)
+- Vercel: https://hocus-pocus-locus-lyqa.vercel.app/
+- Figma: https://www.figma.com/design/q0AC3H7ohxlDfepMH42zk4/html.to.design-%E2%80%94-Import-websites-to-Figma-designs--web-html-css---Community---Community-?node-id=2003-630&t=f7DLnIx8Hi89Yycp-1
+- PDF: https://drive.google.com/file/d/1ze0smEiJjpXuudLBnUcP4m5WvSmcVlo-/view?usp=sharing
 
 ## Funcionalidades
 
