@@ -6,7 +6,7 @@ Tienda web de domicilios para la fiesta: licores, cervezas, snacks y artículos 
 
 ## Demo
 
-🔗 https://tu-proyecto.vercel.app
+🔗 [https://tu-proyecto.vercel.app](https://hocus-pocus-locus-lyqa.vercel.app/)
 
 ## Funcionalidades
 
