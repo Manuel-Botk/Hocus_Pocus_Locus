@@ -48,7 +48,7 @@ Requisitos: [Node.js](https://nodejs.org/) 18 o superior.
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU-USUARIO/hocus-pocus-locus.git
+git clone  https://github.com/Manuel-Botk/Hocus_Pocus_Locus.git
 
 # 2. Entrar a la carpeta
 cd hocus-pocus-locus
